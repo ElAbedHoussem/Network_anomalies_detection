@@ -1,0 +1,7 @@
+keras==2.3.1
+tensorflow==2.0.0
+scikit-learn==0.22.1
+seaborn
+pandas==0.25.3
+pydot
+xgboost
